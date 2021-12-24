@@ -1,0 +1,3 @@
+l=int(input())
+n=int(input())
+print(int(l/(n+1)))

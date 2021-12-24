@@ -1,0 +1,7 @@
+l=int(input())
+x=int(input())
+z=int(0)
+while l > x:
+ l=l-x
+ z=z+1
+print(z)
